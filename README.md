@@ -15,17 +15,10 @@ Hi 👋 I'm Beer Welcome to my Portfolio
 
   &emsp;&emsp;I'm Thanakorn Jaithon, a Computer Science student 🎓 with a passion for technology and programming 💻. I have the ability to learn and apply my knowledge to real-world projects 🌍. As a student, I am continuously improving my skills in various areas of computer science.</br>
 
-Here are some topics I have studied or am currently exploring:</br>
-      &emsp;&emsp; - Programming Languages  (e.g., Python, Java, C, C++, JavaScript, etc.) 🖥️</br>
-      &emsp;&emsp; - Web Development  (React,Vue,etc. ) 🌐</br>
-      &emsp;&emsp;  - Algorithms and Data Structures 📊</br>
-      &emsp;&emsp;  - Object-Oriented Programming (OOP) 🧠</br>
 
 ```
 🚀 I'm excited to collaborate on interesting projects and continue growing in the tech field! Let's connect! 🤝
 ```
-
-
 
 ## 🚀 Skills & Tools  
 
@@ -40,9 +33,6 @@ Here are some topics I have studied or am currently exploring:</br>
     <td align="center">
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="48" height="48" alt="Figma" />
-      </a>
-      <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="48" height="48" alt="Illustrator" />
       </a>
     </td>
     <td align="center">
@@ -89,12 +79,4 @@ Here are some topics I have studied or am currently exploring:</br>
     </td>
   </tr>
 </table>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beerser&show_icons=true&bg_color=30,2f2f2f,1a1a1a&title_color=c0c0c0&text_color=a9a9a9" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beerser&layout=compact&bg_color=30,2f2f2f,1a1a1a&title_color=c0c0c0&text_color=a9a9a9" alt="Top Languages" height="180">
-</p>
 
